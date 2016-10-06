@@ -343,5 +343,10 @@ a:after {
 }
 
 .row{
-	margin-bottom: 60pt;
+	margin-bottom: 50pt;
+}
+
+.abt-me-btn{
+	float: left;
+	margin-left: 50pt;
 }
